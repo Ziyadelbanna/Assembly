@@ -23,7 +23,7 @@
 ## 6. Sin.asm
 ** finding sinx **
 
-## 7. Sub.asm
+## 7. Cos.asm
 ** finding cosx **
 
 
