@@ -1,8 +1,10 @@
-# Introduction to coprocessor/8087 assembly instructions
+# Introduction to coprocessor/ 8087 assembly instructions
 
-## Basic arithmetic operations:
+## Basic arithmetic operations
+
+> Instructions are  _memory_ to _register_ instructions using the 7 stack registers _ST0 - ST_ 
 ### 1. Add.asm
-adding two floats together and storing the value
+adding two floats together and storing the value 
 
 ### 2. Sub.asm
 subtracting two floats and storing the value
