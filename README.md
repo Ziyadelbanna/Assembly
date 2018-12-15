@@ -1,6 +1,6 @@
-# Introduction to coprocessor/8087 instructions
+# Introduction to coprocessor/8087 assembly instructions
 
-## Basic arithmetic operations of assembly language for 8087 architecture (floats)
+## Basic arithmetic operations:
 ### 1. Add.asm
 adding two floats together and storing the value
 
