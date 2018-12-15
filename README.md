@@ -2,7 +2,7 @@
 
 ## Basics arithmetic operations of assembly language for 8087 architecture (floats)
 ### 1. Add.asm
-**adding two floats together and storing the value**
+adding two floats together and storing the value
 
 ### 2. Sub.asm
 **subtracting two floats and storing the value**
