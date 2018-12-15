@@ -4,7 +4,7 @@
 
 > Instructions directions are **_memory_** to **_register_** using the 7 stack registers _ST0 - ST6_ 
 
-* Add.asm
+* **Add.asm
 adding two floats together and storing the value 
 
 * Sub.asm
