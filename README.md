@@ -2,7 +2,8 @@
 
 ## Basic arithmetic operations
 
-> Instructions are  **_memory_** to **_register_** using the 7 stack registers _ST0 - ST6_ 
+> Instructions directions are **_memory_** to **_register_** using the 7 stack registers _ST0 - ST6_ 
+
 ### 1. Add.asm
 adding two floats together and storing the value 
 
