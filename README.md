@@ -5,26 +5,26 @@
 > Instructions directions are **_memory_** to **_register_** using the 7 stack registers _ST0 - ST6_ 
 
 * Add.asm
-> _Adding two floats together and storing the value 
+> _Adding two floats together and storing the value_
 
 * Sub.asm
-> _Subtracting two floats and storing the value
+> _Subtracting two floats and storing the value_
 
 *  Div.asm
-> _Dividing two floats and storing the answer
+> _Dividing two floats and storing the answer_
 
 *  Mul.asm
-> _Multiplying two floats and storing the value
+> _Multiplying two floats and storing the value_
 
 *  prog3.asm
-> _Calculating the value **_ylog2(x)_**
+> _Calculating the value **_ylog2(x)_**_
 
 ## Trigonometry
 
 *  Sin.asm
->_Finding sinx
+>_Finding sinx_
 
 *  Cos.asm
->_Finding cosx
+>_Finding cosx_
 
 
