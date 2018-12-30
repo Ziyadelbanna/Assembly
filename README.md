@@ -1,4 +1,4 @@
-# Introduction to coprocessor/ 8087 assembly instructions
+# Introduction to Co-processor/8087 assembly instructions
 
 ## Basic arithmetic operations
 
