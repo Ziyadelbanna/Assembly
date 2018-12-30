@@ -19,7 +19,7 @@
 *  prog3.asm
 > _Calculating the value **_ylog2(x)_**_
 
-## Trigonometry
+### Trigonometry
 
 *  Sin.asm
 >_Finding sinx_
