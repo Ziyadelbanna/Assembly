@@ -1,5 +1,7 @@
 # Introduction to Co-processor/8087 assembly instructions
 
+>_The goal of this repository is to practise Assembly language and learn the most basic programming applications built in Assembly._
+
 ## Basic arithmetic operations
 
 > Instructions directions are **_memory_** to **_register_** using the 7 stack registers _ST0 - ST6_ 
